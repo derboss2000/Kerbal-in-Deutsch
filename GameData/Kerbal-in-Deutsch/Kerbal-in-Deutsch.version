@@ -1,6 +1,12 @@
 ﻿{
      "NAME":"Kerbal-in-Deutsch",
 	 "URL":"https://github.com/derboss2000/Kerbal-in-Deutsch/blob/master/GameData/Kerbal-in-Deutsch/Kerbal-in-Deutsch.version",
+	 "DOWNLOAD":"https://github.com/derboss2000/Kerbal-in-Deutsch/releases",
+     "GITHUB":{
+         "USERNAME":"derboss2000",
+         "REPOSITORY":"Kerbal-in-Deutsch",
+         "ALLOW_PRE_RELEASE":false
+     },
      "VERSION":{
          "MAJOR":1,
          "MINOR":0,
@@ -11,5 +17,15 @@
          "MAJOR":1,
          "MINOR":3,
          "PATCH":1
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":3,
+         "PATCH":0
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":3,
+         "PATCH":2
      }
 }
