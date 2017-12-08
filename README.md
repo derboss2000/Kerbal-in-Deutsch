@@ -65,7 +65,7 @@ Das war es.
 
 Probleme
 --------
-Es sollten keine Auftreten da es keine dll oder andere sachen gibt ausser *.cfg dateien.<br><br>
+Es sollten keine Auftreten da es keine dll oder andere sachen gibt ausser *.cfg dateien.<br>
 Wenn nicht ist es halt Eng und nicht Deutsch.<br>
 Alle Anderen Addons sind halt in Eng wie immer.
 
