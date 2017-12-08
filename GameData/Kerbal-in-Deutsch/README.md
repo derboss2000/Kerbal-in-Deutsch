@@ -33,8 +33,8 @@ Also stimmt vieles nicht was mit der/die/das & Ziel/Ziele & habe/haben usw nicht
 Ich habe angefangen kleine Hilfen einzubauen der(1), die(2), das(3) einzufügen.
 Bitte übersehen.
 
-Aber das dauert halt bis ich da durch bin. Mein Problem ist das ich von den Missionen erst bei Duna bin.
-Ich habe noch keine Asteroiden Mission gehabt. also konnte ich da noch nichts berichtigen.
+Aber das dauert halt bis ich da durch bin. Mein Problem ist das ich von den Missionen erst bei Duna bin.<br>
+Ich habe noch keine Asteroiden Mission gehabt. also konnte ich da noch nichts berichtigen.<br>
 Wenn jemand einen Spielstand (v1.3.1) hat, mit vielen Missionen, würde ich mich über ein Download freuen.
 
 Desweiteren taucht immer mal wieder Eng auf. Ich habe noch ca. 2000 von 8000 nicht übersetzte Zeilen.
