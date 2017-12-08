@@ -11,38 +11,38 @@ Die Tutorials und Szenarien sind teils übersetzt worden, werden aber nicht zu e
 Das Game ist fast vollständig Übersetzt. 
 
 Astronautenkomplex 		= Fertig<br>
-Observatoruim 			= 90% 
-Forschung & Entwicklung = 90% 
-F&E Menü				= 90% 
-Blaupausen (Teile)		= 80% 
-Verwaltungsgebäude		= 95% (mir gefallen einige ausdrücke noch nicht)
-Raketenhanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)
-Flugzeughanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)
-Startbahn & Startfeld	= Fertig
-Missionsgebäude			= Ich habe angefangen alles 1x grob zu übersetzten. Man versteht worum es geht.
-
-Das problem ist das es Textbausteine sind. 
-Also stimmt vieles nicht was mit der/die/das & Ziel/Ziele & habe/haben usw nicht.
-Ich habe angefangen kleine Hilfen einzubauen der(1), die(2), das(3) einzufügen.
-Bitte übersehen.
-
-Aber das dauert halt bis ich da durch bin. Mein Problem ist das ich von den Missionen erst bei Duna bin.
-Ich habe noch keine Asteroiden Mission gehabt. also konnte ich da noch nichts berichtigen.
-Wenn jemand einen Spielstand (v1.3.1) hat, mit vielen Missionen, würde ich mich über ein Download freuen.
-
-Desweiteren taucht immer mal wieder Eng auf. Ich habe noch ca. 2000 von 8000 nicht übersetzte Zeilen.
-Bei einigen weis ich auch noch nicht wie sie übersetzt werden sollten.
-
-
-UND NOCH MAL
-
-Wer Englisch kann, nutzt die Version Bitte nicht.
-
-
-
-
-
-INSTALLATION
+Observatoruim 			= 90% <br>
+Forschung & Entwicklung = 90% <br>
+F&E Menü				= 90% <br>
+Blaupausen (Teile)		= 80% <br>
+Verwaltungsgebäude		= 95% (mir gefallen einige ausdrücke noch nicht)<br>
+Raketenhanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)<br>
+Flugzeughanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)<br>
+Startbahn & Startfeld	= Fertig<br>
+Missionsgebäude			= Ich habe angefangen alles 1x grob zu übersetzten. Man versteht worum es geht.<br>
+<br>
+Das problem ist das es Textbausteine sind. <br>
+Also stimmt vieles nicht was mit der/die/das & Ziel/Ziele & habe/haben usw nicht.<br>
+Ich habe angefangen kleine Hilfen einzubauen der(1), die(2), das(3) einzufügen.<br>
+Bitte übersehen.<br>
+<br>
+Aber das dauert halt bis ich da durch bin. Mein Problem ist das ich von den Missionen erst bei Duna bin.<br>
+Ich habe noch keine Asteroiden Mission gehabt. also konnte ich da noch nichts berichtigen.<br>
+Wenn jemand einen Spielstand (v1.3.1) hat, mit vielen Missionen, würde ich mich über ein Download freuen.<br>
+<br>
+Desweiteren taucht immer mal wieder Eng auf. Ich habe noch ca. 2000 von 8000 nicht übersetzte Zeilen.<br>
+Bei einigen weis ich auch noch nicht wie sie übersetzt werden sollten.<br>
+<br>
+<br>
+UND NOCH MAL<br>
+<br>
+Wer Englisch kann, nutzt die Version Bitte nicht.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+INSTALLATION<br>
 -------------
 Vor dem Installieren macht Bitte ein Backup vom Ordner oder Game
 
