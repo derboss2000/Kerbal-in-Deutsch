@@ -10,7 +10,7 @@ Die Tutorials und Szenarien sind teils übersetzt worden, werden aber nicht zu e
 
 Das Game ist fast vollständig Übersetzt. 
 
-Astronautenkomplex 		= Fertig
+Astronautenkomplex 		= Fertig<br>
 Observatoruim 			= 90% 
 Forschung & Entwicklung = 90% 
 F&E Menü				= 90% 
