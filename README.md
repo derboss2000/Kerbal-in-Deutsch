@@ -2,7 +2,7 @@
 Vorwort
 -------
 
-Wer Englisch kann, nutzt die Version Bitte nicht.<br>
+Wer Englisch kann, nutzt die Version Bitte nicht.
 
 
 An alle anderen.
@@ -75,7 +75,7 @@ Alle Anderen Addons sind halt in Eng wie immer.
 Andere Plugins die eine Übsetzung mitliefern
 --------------------------------------------
 
- - SCANSat		https://www.curseforge.com/kerbal/ksp-mods/scansat
+ - SCANSat		https://www.curseforge.com/kerbal/ksp-mods/scansat <br>
 	Datei:		SCANSat.cfg
 	Übersetzung Berichtigt und meiner Version Angepasst (Es fehlten ein paar Zeilen)
 
