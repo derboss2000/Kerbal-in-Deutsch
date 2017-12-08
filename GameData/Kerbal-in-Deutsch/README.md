@@ -1,4 +1,11 @@
 ﻿
+
+Kerbal Space Program in Deutsch
+-------------------------------
+
+https://kerbalspaceprogram.com
+
+
 Vorwort
 -------
 
@@ -10,16 +17,16 @@ Die Tutorials und Szenarien sind teils übersetzt worden, werden aber nicht zu e
 
 Das Game ist fast vollständig Übersetzt. 
 
-Astronautenkomplex 		= Fertig
-Observatoruim 			= 90% 
-Forschung & Entwicklung = 90% 
-F&E Menü				= 90% 
-Blaupausen (Teile)		= 80% 
-Verwaltungsgebäude		= 95% (mir gefallen einige ausdrücke noch nicht)
-Raketenhanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)
-Flugzeughanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)
-Startbahn & Startfeld	= Fertig
-Missionsgebäude			= Ich habe angefangen alles 1x grob zu übersetzten. Man versteht worum es geht.
+Astronautenkomplex 		= Fertig<br>
+Observatoruim 			= 90% <br>
+Forschung & Entwicklung = 90% <br>
+F&E Menü				= 90% <br>
+Blaupausen (Teile)		= 80% <br>
+Verwaltungsgebäude		= 95% (mir gefallen einige ausdrücke noch nicht)<br>
+Raketenhanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)<br>
+Flugzeughanger			= 90% (Kleinigkeiten bei den Ingenieure berichten)<br>
+Startbahn & Startfeld	= Fertig<br>
+Missionsgebäude			= Ich habe angefangen alles 1x grob zu übersetzten. Man versteht worum es geht.<br>
 
 Das problem ist das es Textbausteine sind. 
 Also stimmt vieles nicht was mit der/die/das & Ziel/Ziele & habe/haben usw nicht.
@@ -65,8 +72,8 @@ Das war es.
 
 Probleme
 --------
-Es sollten keine Auftreten da es keine Dll oder andere sachen gibt ausser *.cfg dateien.
-Wenn nicht ist es halt Eng und nicht Deutsch.
+Es sollten keine Auftreten da es keine dll oder andere sachen gibt ausser *.cfg dateien.<br>
+Wenn nicht ist es halt Eng und nicht Deutsch.<br>
 Alle Anderen Addons sind halt in Eng wie immer.
 
 
@@ -75,7 +82,7 @@ Alle Anderen Addons sind halt in Eng wie immer.
 Andere Plugins die eine Übsetzung mitliefern
 --------------------------------------------
 
- - SCANSat		https://www.curseforge.com/kerbal/ksp-mods/scansat
+ - SCANSat		https://www.curseforge.com/kerbal/ksp-mods/scansat <br>
 	Datei:		SCANSat.cfg
 	Übersetzung Berichtigt und meiner Version Angepasst (Es fehlten ein paar Zeilen)
 
