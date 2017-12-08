@@ -1,6 +1,7 @@
 ﻿
 
-Kerbal Space Program
+Kerbal Space Program in Deutsch
+-------------------------------
 
 https://kerbalspaceprogram.com
 
