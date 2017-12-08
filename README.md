@@ -2,7 +2,7 @@
 Vorwort
 -------
 
-Wer Englisch kann, nutzt die Version Bitte nicht.
+Wer Englisch kann, nutzt die Version Bitte nicht.<br>
 
 
 An alle anderen.
